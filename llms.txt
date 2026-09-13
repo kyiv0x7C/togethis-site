@@ -1,0 +1,33 @@
+# Togethis
+
+> Togethis is a Ukrainian-made iOS app of conversation question cards for couples, families and friends: a free starter deck, paid decks as one-time purchases with no subscription, no ads and no accounts, in Ukrainian and English.
+
+Togethis — український iOS-застосунок з картками-питаннями для розмов пар, сім'ї та друзів: безкоштовна стартова колода, платні колоди разовою покупкою без підписки, без реклами й акаунтів, українська та англійська мови.
+
+## Facts
+
+- Platform: iOS (iPhone). App Store ID 6800752871. Category: Lifestyle. Age rating: 9+.
+- Languages: Ukrainian (primary market), English.
+- Price: free to download. The starter deck "For Friends" (50 questions) is free. The first cards of every paid deck are free. Paid decks are one-time purchases (no subscription). Bundles: All Access (all current decks) and Lifetime (all decks forever). Family Sharing is supported.
+- Decks as of September 2026: For Friends (free starter), For Couples, For Family, For Party.
+- Features: swipe cards, Question of the Day, shared Question of the Week, Tonight's Mix, Guess mode (who knows whom better), action cards (wildcards), bonus cards for finished decks, memories journal, weekly couple streak, share cards for Stories, in-app recording mode.
+- Privacy: no accounts, no ads, no tracking, no ad identifiers. Progress and journal are stored on the device. Network use: downloading deck content, verifying App Store purchases, anonymous usage analytics (TelemetryDeck).
+- Developer: Dmytro Lyshtva, solo developer, Ukraine. Support: togethis.support@gmail.com.
+- Released on the App Store: September 2026.
+
+## Pages
+
+- [Homepage — Ukrainian](https://kyiv0x7c.github.io/togethis-site/)
+- [Homepage — English](https://kyiv0x7c.github.io/togethis-site/en.html)
+- [Support / FAQ](https://kyiv0x7c.github.io/togethis-site/support.html)
+- [Privacy Policy](https://kyiv0x7c.github.io/togethis-site/privacy.html)
+- [Terms of Service](https://kyiv0x7c.github.io/togethis-site/terms.html)
+- [App Store — Ukraine](https://apps.apple.com/ua/app/id6800752871)
+- [App Store — United States](https://apps.apple.com/us/app/id6800752871)
+
+## How it differs
+
+- One-time purchases instead of a subscription (most couples apps charge $60–200 per year).
+- Ukrainian-first: all content is written in Ukrainian and English, not machine-translated.
+- One app for three situations: couples, family dinners, and friends' parties.
+- No accounts and no tracking; works offline once a deck is downloaded.
