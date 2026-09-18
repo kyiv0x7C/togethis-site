@@ -1,8 +1,5 @@
-# Togethis — robots.txt
-# Увага: на GitHub Pages у підпапці (/togethis-site/) цей файл НЕ діє —
-# пошуковики читають лише https://kyiv0x7c.github.io/robots.txt (його
-# контролює GitHub і він дозволяє індексацію). Файл стає чинним після
-# переїзду на власний домен. Sitemap подавати напряму в BWT/GSC.
+# Togethis — robots.txt (https://togethis.app)
+# Everything is public; AI crawlers and search agents are explicitly welcome.
 
 User-agent: *
 Allow: /
@@ -47,4 +44,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://kyiv0x7c.github.io/togethis-site/sitemap.xml
+Sitemap: https://togethis.app/sitemap.xml

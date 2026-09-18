@@ -8,10 +8,10 @@ Togethis — український iOS-застосунок з картками
 сім'ї та друзів: безкоштовна стартова колода, платні колоди разовою покупкою
 без підписки, без реклами й акаунтів, українська та англійська мови.
 
-- Website: [Ukrainian](https://kyiv0x7c.github.io/togethis-site/) · [English](https://kyiv0x7c.github.io/togethis-site/en.html)
+- Website: [Ukrainian](https://togethis.app/) · [English](https://togethis.app/en.html)
 - App Store: [Ukraine](https://apps.apple.com/ua/app/id6800752871) · [United States](https://apps.apple.com/us/app/id6800752871)
-- [Support](https://kyiv0x7c.github.io/togethis-site/support.html) · togethis.support@gmail.com
-- [Privacy Policy](https://kyiv0x7c.github.io/togethis-site/privacy.html) · [Terms of Service](https://kyiv0x7c.github.io/togethis-site/terms.html)
+- [Support](https://togethis.app/support.html) · togethis.support@gmail.com
+- [Privacy Policy](https://togethis.app/privacy.html) · [Terms of Service](https://togethis.app/terms.html)
 
 This repository hosts the static website of the app (GitHub Pages).
 Developer: Dmytro Lyshtva, Ukraine.

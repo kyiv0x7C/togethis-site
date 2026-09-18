@@ -17,11 +17,11 @@ Togethis — український iOS-застосунок з картками
 
 ## Pages
 
-- [Homepage — Ukrainian](https://kyiv0x7c.github.io/togethis-site/)
-- [Homepage — English](https://kyiv0x7c.github.io/togethis-site/en.html)
-- [Support / FAQ](https://kyiv0x7c.github.io/togethis-site/support.html)
-- [Privacy Policy](https://kyiv0x7c.github.io/togethis-site/privacy.html)
-- [Terms of Service](https://kyiv0x7c.github.io/togethis-site/terms.html)
+- [Homepage — Ukrainian](https://togethis.app/)
+- [Homepage — English](https://togethis.app/en.html)
+- [Support / FAQ](https://togethis.app/support.html)
+- [Privacy Policy](https://togethis.app/privacy.html)
+- [Terms of Service](https://togethis.app/terms.html)
 - [App Store — Ukraine](https://apps.apple.com/ua/app/id6800752871)
 - [App Store — United States](https://apps.apple.com/us/app/id6800752871)
 
