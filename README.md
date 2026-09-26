@@ -10,7 +10,7 @@ Togethis — український iOS-застосунок з картками
 
 - Website: [Ukrainian](https://togethis.app/) · [English](https://togethis.app/en.html)
 - App Store: [Ukraine](https://apps.apple.com/ua/app/id6800752871) · [United States](https://apps.apple.com/us/app/id6800752871)
-- [Support](https://togethis.app/support.html) · togethis.support@gmail.com
+- [Support](https://togethis.app/support.html) · hello@togethis.app
 - [Privacy Policy](https://togethis.app/privacy.html) · [Terms of Service](https://togethis.app/terms.html)
 
 This repository hosts the static website of the app (GitHub Pages).
