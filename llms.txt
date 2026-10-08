@@ -21,6 +21,7 @@ Togethis — український iOS-застосунок з картками
 - [Homepage — English](https://togethis.app/en.html)
 - [36 питань, щоб закохатися: повний список і як грати (Ukrainian)](https://togethis.app/36-pytan.html)
 - [Гра для компанії без реквізиту: 24 питання і 5 форматів (Ukrainian)](https://togethis.app/gra-dlya-kompanii.html)
+- [50 питань для пари, щоб поговорити глибше (Ukrainian)](https://togethis.app/pytannya-dlya-par.html)
 - [Support / FAQ](https://togethis.app/support.html)
 - [Privacy Policy](https://togethis.app/privacy.html)
 - [Terms of Service](https://togethis.app/terms.html)
